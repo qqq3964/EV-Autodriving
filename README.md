@@ -19,7 +19,8 @@ trouble shooting으로 비가 많이오는 날씨를 고려해 V-ROI을 채택�
 4. 추출한 히스토그램에서 슬라이딩 윈도우 기법을 적용
 5. 각도로는 arctan를 이용하여 맵의 중심으로부터 얼마나 윈도우가 떨어졌는지 측정
 6. 선이 하나만 보이는 상황에서는 한선으로 고려하도록 제한
-
+### 시연 영상
+![output (online-video-cutter com) (5)](https://github.com/qqq3964/EV-Autodriving/assets/97833069/9c4ddfcc-ded8-4060-aa86-d6f965d8d205)
 
 ## Team Members
 
