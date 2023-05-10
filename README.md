@@ -36,6 +36,6 @@ trouble shooting으로 비가 많이오는 날씨를 고려해 V-ROI을 채택�
     <td align="center"><a href="https://github.com/HarrysK99"><img src="https://avatars.githubusercontent.com/u/81846798?v=4" width="100px;" alt=""/><br /><sub><b>Hyunwoo Kim</b></sub></a><br /><a href="https://github.com/Kaintels" title="Code"></a></td>
     <td align="center"><a href="https://github.com/Wilbur-Babo"><img src="https://avatars.githubusercontent.com/u/61016569?v=4" width="100px;" alt=""/><br /><sub><b>Yewon Song</b></sub></a><br /><a href="https://github.com/Wilbur-Babo" title="Code"></a></td>
     <td align="center"><a href="https://github.com/stevekwon211"><img src="https://avatars.githubusercontent.com/u/61633137?s=400&u=fd514a668292884e640c15973976e0a0ec39fdbc&v=4" width="100px;" alt=""/><br /><sub><b>Chanhyeok Jung</b></sub></a><br /><a href="https://velog.io/@kwonhl0211" title="Code"></a></td>
-    <td align="center"><a href="https://github.com/sw-song"><img src="https://avatars.githubusercontent.com/u/116241982?v=4" width="100px;" alt=""/><br /><sub><b>Kiyoung Park</b></sub></a><br /><a href="https://www.linkedin.com/in/seungwonsong/" title="Code"></a></td>
+    <td align="center"><a href="https://github.com/ky9226"><img src="https://avatars.githubusercontent.com/u/116241982?v=4" width="100px;" alt=""/><br /><sub><b>Kiyoung Park</b></sub></a><br /><a href="https://github.com/ky9226" title="Code"></a></td>
   </tr>
 </table>
